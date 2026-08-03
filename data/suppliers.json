@@ -1,0 +1,2991 @@
+[
+ {
+  "provider": "JNR Entertainment",
+  "brand_type_raw": "Planner / Entertainer",
+  "brand_tags": [
+   "Planner",
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday, corporate family day, mascot events",
+  "event_types": [
+   "Kids Birthday",
+   "Corporate Family Day"
+  ],
+  "service_categories_raw": "Party packages, mascot, rentals",
+  "website": "https://jnrentertainment.com.sg",
+  "phone": "6100 0029",
+  "whatsapp": "8770 1140",
+  "whatsapp_link": "https://wa.me/6587701140",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "One-stop packages $370-$590; standalone mascot $198; corporate line 6592 5057",
+  "source": [
+   {
+    "label": "jnrentertainment.com.sg",
+    "url": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 10,
+  "price_min": 198.0,
+  "price_max": 800.0,
+  "pricing_models": [
+   "Per item",
+   "Per package",
+   "Per session"
+  ],
+  "services": [
+   {
+    "service": "Basic Package",
+    "category": "Party Package",
+    "price_text": "$440",
+    "min": 440.0,
+    "max": 440.0,
+    "pricing_model": "Per package",
+    "duration": "~2 hrs",
+    "capacity": null,
+    "included": "Host + core activities",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Deluxe Package",
+    "category": "Party Package",
+    "price_text": "$490",
+    "min": 490.0,
+    "max": 490.0,
+    "pricing_model": "Per package",
+    "duration": "~2 hrs",
+    "capacity": null,
+    "included": "Host + activities",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Superior Package",
+    "category": "Party Package",
+    "price_text": "$570",
+    "min": 570.0,
+    "max": 570.0,
+    "pricing_model": "Per package",
+    "duration": "~2 hrs",
+    "capacity": null,
+    "included": "Host + activities",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Fun Package",
+    "category": "Party Package",
+    "price_text": "$590",
+    "min": 590.0,
+    "max": 590.0,
+    "pricing_model": "Per package",
+    "duration": "~2 hrs",
+    "capacity": null,
+    "included": "Host + activities",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Entertainment Package",
+    "category": "Party Package",
+    "price_text": "$370",
+    "min": 370.0,
+    "max": 370.0,
+    "pricing_model": "Per package",
+    "duration": "~1.5 hrs",
+    "capacity": null,
+    "included": "Entertainer",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Mascot Surprise Package",
+    "category": "Party Package",
+    "price_text": "$450",
+    "min": 450.0,
+    "max": 450.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Mascot appearance",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Toddler Package",
+    "category": "Party Package",
+    "price_text": "$570",
+    "min": 570.0,
+    "max": 570.0,
+    "pricing_model": "Per package",
+    "duration": "~2 hrs",
+    "capacity": null,
+    "included": "Toddler-friendly activities",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Mini Disco Package",
+    "category": "Party Package",
+    "price_text": "$420",
+    "min": 420.0,
+    "max": 420.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Disco setup + host",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Mascot (standalone)",
+    "category": "Add-on",
+    "price_text": "$198/session",
+    "min": 198.0,
+    "max": 198.0,
+    "pricing_model": "Per session",
+    "duration": "~30 min",
+    "capacity": null,
+    "included": "1 mascot appearance",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   },
+   {
+    "service": "Party rentals",
+    "category": "Rental",
+    "price_text": "$198-$800",
+    "min": 198.0,
+    "max": 800.0,
+    "pricing_model": "Per item",
+    "duration": null,
+    "capacity": null,
+    "included": "Equipment rental",
+    "source": "https://jnrentertainment.com.sg/kids-birthday-party-packages/"
+   }
+  ]
+ },
+ {
+  "provider": "PartyMojo",
+  "brand_type_raw": "Planner / Entertainer / Rental",
+  "brand_tags": [
+   "Planner",
+   "Entertainer",
+   "Rental"
+  ],
+  "event_types_raw": "Kids birthday, carnival, corporate, pool party",
+  "event_types": [
+   "Kids Birthday",
+   "Corporate Family Day",
+   "Themed Party",
+   "Pool Party",
+   "Workshop"
+  ],
+  "service_categories_raw": "Party packages, magic, carnival, candy floss, balloons",
+  "website": "https://partymojo.com.sg",
+  "phone": "6569 6992",
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": "Yolanda@partymojo.com.sg",
+  "instagram": null,
+  "address": "IMM Bldg, 2 Jurong East St 21 #04-33V S609601",
+  "differentiators": "Wide themed package range $480-$950; carnival & candy floss add-ons",
+  "source": [
+   {
+    "label": "partymojo.com.sg",
+    "url": "https://www.partymojo.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 14,
+  "price_min": 300.0,
+  "price_max": 1800.0,
+  "pricing_models": [
+   "Per package",
+   "Per session",
+   "Per setup",
+   "Per show"
+  ],
+  "services": [
+   {
+    "service": "PartyMojo Package (PM10)",
+    "category": "Party Package",
+    "price_text": "$699",
+    "min": 699.0,
+    "max": 699.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Multiple activities",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Jolly Package",
+    "category": "Party Package",
+    "price_text": "$480",
+    "min": 480.0,
+    "max": 480.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Core activities",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Incredible Package",
+    "category": "Party Package",
+    "price_text": "$600",
+    "min": 600.0,
+    "max": 600.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Core activities",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Magical Package",
+    "category": "Party Package",
+    "price_text": "$480",
+    "min": 480.0,
+    "max": 480.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Magic-focused",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Toddler Package",
+    "category": "Party Package",
+    "price_text": "$550",
+    "min": 550.0,
+    "max": 550.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Toddler activities",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Art & Craft Package",
+    "category": "Party Package",
+    "price_text": "$580",
+    "min": 580.0,
+    "max": 580.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Craft activities",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Pool Party Package",
+    "category": "Party Package",
+    "price_text": "$600",
+    "min": 600.0,
+    "max": 600.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Pool activities",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Mini Carnival Package",
+    "category": "Party Package",
+    "price_text": "$580",
+    "min": 580.0,
+    "max": 580.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Carnival games",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Carnival Package",
+    "category": "Party Package",
+    "price_text": "$680",
+    "min": 680.0,
+    "max": 680.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Carnival games",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Sand Art Package",
+    "category": "Party Package",
+    "price_text": "$550",
+    "min": 550.0,
+    "max": 550.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Sand art activity",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Princess Package",
+    "category": "Party Package",
+    "price_text": "$950",
+    "min": 950.0,
+    "max": 950.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Princess theme premium",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Magic Show",
+    "category": "Add-on",
+    "price_text": "$350-$600",
+    "min": 350.0,
+    "max": 600.0,
+    "pricing_model": "Per show",
+    "duration": null,
+    "capacity": null,
+    "included": "Magician",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Candy Floss",
+    "category": "Add-on",
+    "price_text": "$300-$600",
+    "min": 300.0,
+    "max": 600.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Candy floss cart + operator",
+    "source": "https://www.partymojo.com.sg/"
+   },
+   {
+    "service": "Tiered decor packages",
+    "category": "Balloon Decor",
+    "price_text": "$350-$1800",
+    "min": 350.0,
+    "max": 1800.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon decor tiers",
+    "source": "https://www.partymojo.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Mr. Bottle's Kid's Party",
+  "brand_type_raw": "Planner / Entertainer",
+  "brand_tags": [
+   "Planner",
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday, science party, Halloween, baby shower, toddler",
+  "event_types": [
+   "Kids Birthday",
+   "Baby Shower",
+   "Themed Party",
+   "Workshop"
+  ],
+  "service_categories_raw": "Party packages, magic, science labs, themed",
+  "website": "https://kidsparty.com.sg",
+  "phone": "6515 5921",
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": "info@kidsparty.com.sg",
+  "instagram": null,
+  "address": "59 Ubi Ave 1 #05-10 S408938",
+  "differentiators": "Signature science parties $750-$1555; large Halloween events to $4990",
+  "source": [
+   {
+    "label": "kidsparty.com.sg",
+    "url": "https://www.kidsparty.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 11,
+  "price_min": 200.0,
+  "price_max": 4990.0,
+  "pricing_models": [
+   "Per event",
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Standard Package",
+    "category": "Party Package",
+    "price_text": "$660",
+    "min": 660.0,
+    "max": 660.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Magic + balloon",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Superb Package",
+    "category": "Party Package",
+    "price_text": "$810",
+    "min": 810.0,
+    "max": 810.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Extended activities",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Splendid Package",
+    "category": "Party Package",
+    "price_text": "$999",
+    "min": 999.0,
+    "max": 999.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Premium activities",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Science Lab (Basic)",
+    "category": "Science Party",
+    "price_text": "$750",
+    "min": 750.0,
+    "max": 750.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Science experiments",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Science Lab (Mid)",
+    "category": "Science Party",
+    "price_text": "$980",
+    "min": 980.0,
+    "max": 980.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Science experiments",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Science Lab (Premium)",
+    "category": "Science Party",
+    "price_text": "$1555",
+    "min": 1555.0,
+    "max": 1555.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Science experiments",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Themed parties (from-price)",
+    "category": "Themed Party",
+    "price_text": "from $200-$980",
+    "min": 200.0,
+    "max": 980.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Varies by theme",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Halloween events",
+    "category": "Seasonal",
+    "price_text": "$1000-$4990",
+    "min": 1000.0,
+    "max": 4990.0,
+    "pricing_model": "Per event",
+    "duration": null,
+    "capacity": null,
+    "included": "Large-scale Halloween",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Baby shower (Basic)",
+    "category": "Baby Shower",
+    "price_text": "$398",
+    "min": 398.0,
+    "max": 398.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Baby shower setup",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Baby shower (Premium)",
+    "category": "Baby Shower",
+    "price_text": "$690",
+    "min": 690.0,
+    "max": 690.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Baby shower setup",
+    "source": "https://www.kidsparty.com.sg/"
+   },
+   {
+    "service": "Toddler package",
+    "category": "Toddler Party",
+    "price_text": "$990",
+    "min": 990.0,
+    "max": 990.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Toddler activities",
+    "source": "https://www.kidsparty.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Party People",
+  "brand_type_raw": "Planner / Entertainer / Rental",
+  "brand_tags": [
+   "Planner",
+   "Entertainer",
+   "Rental"
+  ],
+  "event_types_raw": "Kids birthday, art party, rentals",
+  "event_types": [
+   "Kids Birthday",
+   "Workshop"
+  ],
+  "service_categories_raw": "Party packages, art & craft, ball pit, rentals",
+  "website": "https://partypeople.com.sg",
+  "phone": "6977 9516",
+  "whatsapp": "8858 2198",
+  "whatsapp_link": "https://wa.me/6588582198",
+  "email": null,
+  "instagram": "@partypeoplesg",
+  "address": "MEGA@Woodlands, 39 Woodlands Close #06-66 S737856",
+  "differentiators": "Art-focused parties $300-$698; secondary WA 8699 6438",
+  "source": [
+   {
+    "label": "partypeople.com.sg",
+    "url": "https://www.partypeople.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 8,
+  "price_min": 100.0,
+  "price_max": 998.0,
+  "pricing_models": [
+   "Per item",
+   "Per package",
+   "Per rental"
+  ],
+  "services": [
+   {
+    "service": "FUN Party (Basic)",
+    "category": "Party Package",
+    "price_text": "$300",
+    "min": 300.0,
+    "max": 300.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Core activities",
+    "source": "https://www.partypeople.com.sg/"
+   },
+   {
+    "service": "FUN Party (Plus)",
+    "category": "Party Package",
+    "price_text": "$450",
+    "min": 450.0,
+    "max": 450.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Core activities",
+    "source": "https://www.partypeople.com.sg/"
+   },
+   {
+    "service": "Magical Party",
+    "category": "Party Package",
+    "price_text": "$598",
+    "min": 598.0,
+    "max": 598.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Magic-focused",
+    "source": "https://www.partypeople.com.sg/"
+   },
+   {
+    "service": "Amazing Party",
+    "category": "Party Package",
+    "price_text": "$998",
+    "min": 998.0,
+    "max": 998.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Premium activities",
+    "source": "https://www.partypeople.com.sg/"
+   },
+   {
+    "service": "Art parties",
+    "category": "Art Party",
+    "price_text": "$300-$698",
+    "min": 300.0,
+    "max": 698.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Craft activities",
+    "source": "https://www.partypeople.com.sg/"
+   },
+   {
+    "service": "Party rentals",
+    "category": "Rental",
+    "price_text": "$100-$450",
+    "min": 100.0,
+    "max": 450.0,
+    "pricing_model": "Per item",
+    "duration": null,
+    "capacity": null,
+    "included": "Equipment rental",
+    "source": "https://www.partypeople.com.sg/"
+   },
+   {
+    "service": "Ball pit",
+    "category": "Rental",
+    "price_text": "$450",
+    "min": 450.0,
+    "max": 450.0,
+    "pricing_model": "Per rental",
+    "duration": null,
+    "capacity": null,
+    "included": "Ball pit setup",
+    "source": "https://www.partypeople.com.sg/"
+   },
+   {
+    "service": "Party rentals",
+    "category": "Rental",
+    "price_text": "$300-$828",
+    "min": 300.0,
+    "max": 828.0,
+    "pricing_model": "Per item",
+    "duration": null,
+    "capacity": null,
+    "included": "Equipment rental",
+    "source": "https://www.partypeople.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Jellybean Party",
+  "brand_type_raw": "Planner / Entertainer / Rental",
+  "brand_tags": [
+   "Planner",
+   "Entertainer",
+   "Rental"
+  ],
+  "event_types_raw": "Kids birthday, pool party, workshops",
+  "event_types": [
+   "Kids Birthday",
+   "Pool Party",
+   "Workshop"
+  ],
+  "service_categories_raw": "A la carte entertainment, magic, workshops, photobooth",
+  "website": "https://jellybeanparty.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Award-winning magic since 2010; a la carte $150-$920",
+  "source": [
+   {
+    "label": "jellybeanparty.sg",
+    "url": "https://www.jellybeanparty.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 8,
+  "price_min": 150.0,
+  "price_max": 920.0,
+  "pricing_models": [
+   "Per hour",
+   "Per item",
+   "Per package",
+   "Per session",
+   "Per show"
+  ],
+  "services": [
+   {
+    "service": "Balloon / face paint / glitter",
+    "category": "A la carte",
+    "price_text": "$150/hr",
+    "min": 150.0,
+    "max": 150.0,
+    "pricing_model": "Per hour",
+    "duration": "1 hr",
+    "capacity": null,
+    "included": "1 artist",
+    "source": "https://www.jellybeanparty.sg/"
+   },
+   {
+    "service": "Magic show",
+    "category": "A la carte",
+    "price_text": "$350-$450",
+    "min": 350.0,
+    "max": 450.0,
+    "pricing_model": "Per show",
+    "duration": null,
+    "capacity": null,
+    "included": "Magician",
+    "source": "https://www.jellybeanparty.sg/"
+   },
+   {
+    "service": "Workshops",
+    "category": "A la carte",
+    "price_text": "$250-$600",
+    "min": 250.0,
+    "max": 600.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Craft workshop",
+    "source": "https://www.jellybeanparty.sg/"
+   },
+   {
+    "service": "Pool party",
+    "category": "A la carte",
+    "price_text": "$920",
+    "min": 920.0,
+    "max": 920.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Pool activities",
+    "source": "https://www.jellybeanparty.sg/"
+   },
+   {
+    "service": "Ice cream cart",
+    "category": "A la carte",
+    "price_text": "$390-$490",
+    "min": 390.0,
+    "max": 490.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Ice cream cart + operator",
+    "source": "https://www.jellybeanparty.sg/"
+   },
+   {
+    "service": "Photobooth",
+    "category": "A la carte",
+    "price_text": "$750",
+    "min": 750.0,
+    "max": 750.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Photobooth setup",
+    "source": "https://www.jellybeanparty.sg/"
+   },
+   {
+    "service": "Fixed decor packages",
+    "category": "Balloon Decor",
+    "price_text": "$220-$880",
+    "min": 220.0,
+    "max": 880.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon decor",
+    "source": "https://www.jellybeanparty.sg/"
+   },
+   {
+    "service": "Party rentals",
+    "category": "Rental",
+    "price_text": "$259-$790",
+    "min": 259.0,
+    "max": 790.0,
+    "pricing_model": "Per item",
+    "duration": null,
+    "capacity": null,
+    "included": "Equipment rental",
+    "source": "https://www.jellybeanparty.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Pixel Party",
+  "brand_type_raw": "Planner / Decor",
+  "brand_tags": [
+   "Planner",
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, corporate",
+  "event_types": [
+   "Kids Birthday",
+   "Corporate Family Day"
+  ],
+  "service_categories_raw": "Party planning, backdrops, balloon decor",
+  "website": "https://pixelpartysg.com",
+  "phone": "9107 7658",
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": "hello@pixelpartysg.com",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Quote-only bespoke styling; corporate@pixelpartysg.com",
+  "source": [
+   {
+    "label": "pixelpartysg.com",
+    "url": "https://www.pixelpartysg.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 250.0,
+  "price_max": 650.0,
+  "pricing_models": [
+   "Per setup"
+  ],
+  "services": [
+   {
+    "service": "Backdrops",
+    "category": "Balloon Decor",
+    "price_text": "$250-$650",
+    "min": 250.0,
+    "max": 650.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Styled backdrops",
+    "source": "https://www.pixelpartysg.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Happy Party",
+  "brand_type_raw": "Entertainer",
+  "brand_tags": [
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "A la carte entertainment, magic",
+  "website": "https://happyparty.com.sg",
+  "phone": "8854 0512",
+  "whatsapp": "8854 0512",
+  "whatsapp_link": "https://wa.me/6588540512",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Per-hour a la carte $120-$150; magic $350-$450",
+  "source": [
+   {
+    "label": "happyparty.com.sg",
+    "url": "https://www.happyparty.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 2,
+  "price_min": 120.0,
+  "price_max": 450.0,
+  "pricing_models": [
+   "Per hour",
+   "Per show"
+  ],
+  "services": [
+   {
+    "service": "Per-hour entertainment",
+    "category": "A la carte",
+    "price_text": "$120-$150",
+    "min": 120.0,
+    "max": 150.0,
+    "pricing_model": "Per hour",
+    "duration": "1 hr",
+    "capacity": null,
+    "included": "1 entertainer",
+    "source": "https://www.happyparty.com.sg/"
+   },
+   {
+    "service": "Magic show",
+    "category": "A la carte",
+    "price_text": "$350-$450",
+    "min": 350.0,
+    "max": 450.0,
+    "pricing_model": "Per show",
+    "duration": null,
+    "capacity": null,
+    "included": "Magician",
+    "source": "https://www.happyparty.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "The Fun Empire",
+  "brand_type_raw": "Entertainer / Experiences",
+  "brand_tags": [
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday, corporate team-building",
+  "event_types": [
+   "Kids Birthday",
+   "Corporate Family Day"
+  ],
+  "service_categories_raw": "Per-pax activities, party experiences",
+  "website": "https://funempire.com",
+  "phone": "6016 7147",
+  "whatsapp": "6016 7147",
+  "whatsapp_link": "https://wa.me/6560167147",
+  "email": "hello@funempire.com",
+  "instagram": "@thefunempire",
+  "address": "29 Playfair Rd, Singapore",
+  "differentiators": "Per-pax experiences from $20-$45; strong corporate arm",
+  "source": [
+   {
+    "label": "funempire.com",
+    "url": "https://www.funempire.com/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 20.0,
+  "price_max": 45.0,
+  "pricing_models": [
+   "Per pax"
+  ],
+  "services": [
+   {
+    "service": "Party activities (per pax)",
+    "category": "Experience",
+    "price_text": "$20-$45/pax",
+    "min": 20.0,
+    "max": 45.0,
+    "pricing_model": "Per pax",
+    "duration": null,
+    "capacity": "Min pax applies",
+    "included": "Activity facilitation",
+    "source": "https://www.funempire.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Party Heart",
+  "brand_type_raw": "Planner / Entertainer",
+  "brand_tags": [
+   "Planner",
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Party packages, magic, balloon, face paint, candy floss",
+  "website": "https://partyheart.com.sg",
+  "phone": "9736 8494",
+  "whatsapp": "9736 8494",
+  "whatsapp_link": "https://wa.me/6597368494",
+  "email": "enquiry@partyheart.com.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Tiered packages Star/Ultimate/Gold $420-$890 + a la carte",
+  "source": [
+   {
+    "label": "partyheart.com.sg",
+    "url": "https://www.partyheart.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 4,
+  "price_min": 120.0,
+  "price_max": 890.0,
+  "pricing_models": [
+   "Per item",
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Star Package",
+    "category": "Party Package",
+    "price_text": "$420",
+    "min": 420.0,
+    "max": 420.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Core activities",
+    "source": "https://www.partyheart.com.sg/"
+   },
+   {
+    "service": "Ultimate Package",
+    "category": "Party Package",
+    "price_text": "$620",
+    "min": 620.0,
+    "max": 620.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Extended activities",
+    "source": "https://www.partyheart.com.sg/"
+   },
+   {
+    "service": "Gold Package",
+    "category": "Party Package",
+    "price_text": "$890",
+    "min": 890.0,
+    "max": 890.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Premium activities",
+    "source": "https://www.partyheart.com.sg/"
+   },
+   {
+    "service": "Add-on services",
+    "category": "A la carte",
+    "price_text": "$120-$480",
+    "min": 120.0,
+    "max": 480.0,
+    "pricing_model": "Per item",
+    "duration": null,
+    "capacity": null,
+    "included": "Various add-ons",
+    "source": "https://www.partyheart.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Fizazzle",
+  "brand_type_raw": "Planner / Entertainer",
+  "brand_tags": [
+   "Planner",
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday, toddler, teen",
+  "event_types": [
+   "Kids Birthday",
+   "Adult Birthday"
+  ],
+  "service_categories_raw": "Themed party planning, decor",
+  "website": "https://fizazzle.com",
+  "phone": "8121 4922",
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": "bookings@fizazzle.com",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Themed bashes (mermaid/dino); secondary pkgs $780-$1150",
+  "source": [
+   {
+    "label": "fizazzle.com",
+    "url": "https://www.fizazzle.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 780.0,
+  "price_max": 1150.0,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Themed party (secondary range)",
+    "category": "Party Package",
+    "price_text": "$780-$1150",
+    "min": 780.0,
+    "max": 1150.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Themed styling + activities",
+    "source": "https://www.fizazzle.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Mr Egg Magic",
+  "brand_type_raw": "Entertainer",
+  "brand_tags": [
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Magic show",
+  "website": "https://mreggmagic.com",
+  "phone": "9795 5766",
+  "whatsapp": "9795 5766",
+  "whatsapp_link": "https://wa.me/6597955766",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Magician packages $399-$499 nett",
+  "source": [
+   {
+    "label": "mreggmagic.com",
+    "url": "https://www.mreggmagic.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 399.0,
+  "price_max": 499.0,
+  "pricing_models": [
+   "Per show"
+  ],
+  "services": [
+   {
+    "service": "Magician package",
+    "category": "Magic Show",
+    "price_text": "$399-$499 nett",
+    "min": 399.0,
+    "max": 499.0,
+    "pricing_model": "Per show",
+    "duration": null,
+    "capacity": null,
+    "included": "Magic show (nett)",
+    "source": "https://www.mreggmagic.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Tricky Patrick",
+  "brand_type_raw": "Entertainer",
+  "brand_tags": [
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday, corporate",
+  "event_types": [
+   "Kids Birthday",
+   "Corporate Family Day"
+  ],
+  "service_categories_raw": "Magic show",
+  "website": "https://trickypatrick.com",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Professional magician; quote-only",
+  "source": [
+   {
+    "label": "trickypatrick.com",
+    "url": "https://www.trickypatrick.com/"
+   }
+  ],
+  "confidence": "Lead",
+  "has_pricing": false,
+  "service_count": 0,
+  "price_min": null,
+  "price_max": null,
+  "pricing_models": [],
+  "services": []
+ },
+ {
+  "provider": "Fantasy Parties",
+  "brand_type_raw": "Planner / Entertainer",
+  "brand_tags": [
+   "Planner",
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday, princess/superhero",
+  "event_types": [
+   "Kids Birthday",
+   "Themed Party"
+  ],
+  "service_categories_raw": "Themed parties, bubble shows, gift sets",
+  "website": "https://kidsfantasyparties.com",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Bubble shows $500-$600; gift sets $98-$188",
+  "source": [
+   {
+    "label": "kidsfantasyparties.com",
+    "url": "https://www.kidsfantasyparties.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 2,
+  "price_min": 98.0,
+  "price_max": 600.0,
+  "pricing_models": [
+   "Per set",
+   "Per show"
+  ],
+  "services": [
+   {
+    "service": "Bubble show",
+    "category": "Entertainment",
+    "price_text": "$500-$600",
+    "min": 500.0,
+    "max": 600.0,
+    "pricing_model": "Per show",
+    "duration": null,
+    "capacity": null,
+    "included": "Bubble performance",
+    "source": "https://www.kidsfantasyparties.com/"
+   },
+   {
+    "service": "Gift sets",
+    "category": "Add-on",
+    "price_text": "$98-$188",
+    "min": 98.0,
+    "max": 188.0,
+    "pricing_model": "Per set",
+    "duration": null,
+    "capacity": null,
+    "included": "Party gift sets",
+    "source": "https://www.kidsfantasyparties.com/"
+   }
+  ]
+ },
+ {
+  "provider": "That Balloons",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Balloon sculpting, garlands, backdrops",
+  "website": "https://thatballoons.com",
+  "phone": "8157 7331",
+  "whatsapp": "8157 7331",
+  "whatsapp_link": "https://wa.me/6581577331",
+  "email": "sg.balloons@gmail.com",
+  "instagram": "that.balloons",
+  "address": null,
+  "differentiators": "Broad range $150-$1280",
+  "source": [
+   {
+    "label": "thatballoons.com",
+    "url": "https://thatballoons.com/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 150.0,
+  "price_max": 1280.0,
+  "pricing_models": [
+   "Per setup"
+  ],
+  "services": [
+   {
+    "service": "Balloon range",
+    "category": "Balloon Decor",
+    "price_text": "$150-$1280",
+    "min": 150.0,
+    "max": 1280.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon sculptures / decor",
+    "source": "https://thatballoons.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Little Red Balloon",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Helium balloons, decor packages",
+  "website": "https://littleredballoon.com.sg",
+  "phone": "8161 8448",
+  "whatsapp": "8161 8448",
+  "whatsapp_link": "https://wa.me/6581618448",
+  "email": "Sales@littleredballoon.com.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Helium balloons $4-$40; decor packages",
+  "source": [
+   {
+    "label": "littleredballoon.com.sg",
+    "url": "https://littleredballoon.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 4.0,
+  "price_max": 40.0,
+  "pricing_models": [
+   "Per balloon"
+  ],
+  "services": [
+   {
+    "service": "Helium balloons",
+    "category": "Balloon Decor",
+    "price_text": "$4-$40",
+    "min": 4.0,
+    "max": 40.0,
+    "pricing_model": "Per balloon",
+    "duration": null,
+    "capacity": null,
+    "included": "Helium balloons",
+    "source": "https://littleredballoon.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Happier",
+  "brand_type_raw": "Balloon & Decor / Entertainer",
+  "brand_tags": [
+   "Balloon & Decor",
+   "Entertainer"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Balloon decor, face & body painting",
+  "website": "https://happier.sg",
+  "phone": "8832 6726",
+  "whatsapp": "8832 6726",
+  "whatsapp_link": "https://wa.me/6588326726",
+  "email": "sales@happier.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Decor $58-$450; FDA-certified paint",
+  "source": [
+   {
+    "label": "happier.sg",
+    "url": "https://happier.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 58.0,
+  "price_max": 450.0,
+  "pricing_models": [
+   "Per setup"
+  ],
+  "services": [
+   {
+    "service": "Decor range",
+    "category": "Balloon Decor",
+    "price_text": "$58-$450",
+    "min": 58.0,
+    "max": 450.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon decor",
+    "source": "https://happier.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Makors Events",
+  "brand_type_raw": "Balloon & Decor / Events",
+  "brand_tags": [
+   "Balloon & Decor",
+   "Planner"
+  ],
+  "event_types_raw": "Kids birthday, corporate events",
+  "event_types": [
+   "Kids Birthday",
+   "Corporate Family Day"
+  ],
+  "service_categories_raw": "Balloon decor, event styling",
+  "website": "https://makors.com.sg",
+  "phone": "9342 2768",
+  "whatsapp": "9342 2768",
+  "whatsapp_link": "https://wa.me/6593422768",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Event decor $115-$1000; kids setups $250-$400",
+  "source": [
+   {
+    "label": "makors.com.sg",
+    "url": "https://makors.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 2,
+  "price_min": 115.0,
+  "price_max": 1000.0,
+  "pricing_models": [
+   "Per setup"
+  ],
+  "services": [
+   {
+    "service": "Event decor",
+    "category": "Balloon Decor",
+    "price_text": "$115-$1000",
+    "min": 115.0,
+    "max": 1000.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Event styling",
+    "source": "https://makors.com.sg/"
+   },
+   {
+    "service": "Kids party setups",
+    "category": "Balloon Decor",
+    "price_text": "$250-$400",
+    "min": 250.0,
+    "max": 400.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Kids decor",
+    "source": "https://makors.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Balloon Shop SG",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Balloon packages",
+  "website": null,
+  "phone": "8818 1029",
+  "whatsapp": "8818 1029",
+  "whatsapp_link": "https://wa.me/6588181029",
+  "email": null,
+  "instagram": null,
+  "address": "Woodlands, Singapore",
+  "differentiators": "Classic package $198",
+  "source": [
+   {
+    "label": "google.com",
+    "url": "https://www.google.com/search?q=Balloon+Shop+SG"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 198.0,
+  "price_max": 198.0,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Classic package",
+    "category": "Balloon Decor",
+    "price_text": "$198",
+    "min": 198.0,
+    "max": 198.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon decor",
+    "source": "https://www.google.com/search?q=Balloon+Shop+SG"
+   }
+  ]
+ },
+ {
+  "provider": "Hello Joi",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Balloon garlands",
+  "website": "https://hellojoi.sg",
+  "phone": "9671 4868",
+  "whatsapp": "9671 4868",
+  "whatsapp_link": "https://wa.me/6596714868",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Garlands $90-$270",
+  "source": [
+   {
+    "label": "hellojoi.sg",
+    "url": "https://hellojoi.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 90.0,
+  "price_max": 270.0,
+  "pricing_models": [
+   "Per garland"
+  ],
+  "services": [
+   {
+    "service": "Garlands",
+    "category": "Balloon Decor",
+    "price_text": "$90-$270",
+    "min": 90.0,
+    "max": 270.0,
+    "pricing_model": "Per garland",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon garlands",
+    "source": "https://hellojoi.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Andy Balloons / SG Balloons",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Balloon bouquets, packages",
+  "website": "https://balloons.com.sg",
+  "phone": "8876 9977",
+  "whatsapp": "8876 9977",
+  "whatsapp_link": "https://wa.me/6588769977",
+  "email": "sales@balloons.com.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Bouquets $24-$68; packages from $110",
+  "source": [
+   {
+    "label": "balloons.com.sg",
+    "url": "https://balloons.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 2,
+  "price_min": 24.0,
+  "price_max": 110.0,
+  "pricing_models": [
+   "Per bouquet",
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Bouquets",
+    "category": "Balloon Decor",
+    "price_text": "$24-$68",
+    "min": 24.0,
+    "max": 68.0,
+    "pricing_model": "Per bouquet",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon bouquets",
+    "source": "https://balloons.com.sg/"
+   },
+   {
+    "service": "Packages",
+    "category": "Balloon Decor",
+    "price_text": "from $110",
+    "min": 110.0,
+    "max": 110.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon packages",
+    "source": "https://balloons.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Give Fun",
+  "brand_type_raw": "Balloon & Decor / Party Supplies",
+  "brand_tags": [
+   "Balloon & Decor",
+   "Party Supplies"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Fixed balloon packages, party supplies",
+  "website": "https://givefun.com.sg",
+  "phone": "6950 1508",
+  "whatsapp": "6950 1508",
+  "whatsapp_link": "https://wa.me/6569501508",
+  "email": "hello@givefun.com.sg",
+  "instagram": "@givefunsg",
+  "address": null,
+  "differentiators": "Fixed-price packages $43.90-$222.90",
+  "source": [
+   {
+    "label": "givefun.com.sg",
+    "url": "https://givefun.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 43.9,
+  "price_max": 222.9,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Fixed packages",
+    "category": "Balloon Decor",
+    "price_text": "$43.90-$222.90",
+    "min": 43.9,
+    "max": 222.9,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Fixed-price decor",
+    "source": "https://givefun.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Party Wholesale Centre",
+  "brand_type_raw": "Party Supplies / Balloon",
+  "brand_tags": [
+   "Party Supplies",
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Wholesale balloons & supplies",
+  "website": "https://partywholesale.com.sg",
+  "phone": "6445 0508",
+  "whatsapp": "6445 0508",
+  "whatsapp_link": "https://wa.me/6564450508",
+  "email": "sales@partywholesale.com.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Per-balloon $0.70-$1.70; wholesale supplies",
+  "source": [
+   {
+    "label": "partywholesale.com.sg",
+    "url": "https://partywholesale.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 0.7,
+  "price_max": 1.7,
+  "pricing_models": [
+   "Per balloon"
+  ],
+  "services": [
+   {
+    "service": "Balloons (wholesale)",
+    "category": "Party Supplies",
+    "price_text": "$0.70-$1.70/balloon",
+    "min": 0.7,
+    "max": 1.7,
+    "pricing_model": "Per balloon",
+    "duration": null,
+    "capacity": null,
+    "included": "Wholesale balloons",
+    "source": "https://partywholesale.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "BoBoChaCha",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "DIY balloon kits, decor",
+  "website": "https://bobochachaballoon.com",
+  "phone": "9017 1105",
+  "whatsapp": "9017 1105",
+  "whatsapp_link": "https://wa.me/6590171105",
+  "email": "shop@bobochachaballoon.com",
+  "instagram": null,
+  "address": null,
+  "differentiators": "DIY kits $173-$415",
+  "source": [
+   {
+    "label": "bobochachaballoon.com",
+    "url": "https://bobochachaballoon.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 173.0,
+  "price_max": 415.0,
+  "pricing_models": [
+   "Per kit"
+  ],
+  "services": [
+   {
+    "service": "DIY kits",
+    "category": "Balloon Decor",
+    "price_text": "$173-$415",
+    "min": 173.0,
+    "max": 415.0,
+    "pricing_model": "Per kit",
+    "duration": null,
+    "capacity": null,
+    "included": "DIY balloon kits",
+    "source": "https://bobochachaballoon.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Party Beary Fun",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Balloon garlands, backdrops, setups",
+  "website": "https://partybearyfun.sg",
+  "phone": "9170 2150",
+  "whatsapp": "9170 2150",
+  "whatsapp_link": "https://wa.me/6591702150",
+  "email": "hi@partybearyfun.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Garland $60/m; backdrop $50/sqm; setups $100-$1280",
+  "source": [
+   {
+    "label": "partybearyfun.sg",
+    "url": "https://partybearyfun.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 3,
+  "price_min": 50.0,
+  "price_max": 1280.0,
+  "pricing_models": [
+   "Per metre",
+   "Per setup",
+   "Per sqm"
+  ],
+  "services": [
+   {
+    "service": "Garland",
+    "category": "Balloon Decor",
+    "price_text": "$60/m",
+    "min": 60.0,
+    "max": 60.0,
+    "pricing_model": "Per metre",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon garland",
+    "source": "https://partybearyfun.sg/"
+   },
+   {
+    "service": "Backdrop",
+    "category": "Balloon Decor",
+    "price_text": "$50/sqm",
+    "min": 50.0,
+    "max": 50.0,
+    "pricing_model": "Per sqm",
+    "duration": null,
+    "capacity": null,
+    "included": "Backdrop",
+    "source": "https://partybearyfun.sg/"
+   },
+   {
+    "service": "Full setups",
+    "category": "Balloon Decor",
+    "price_text": "$100-$1280",
+    "min": 100.0,
+    "max": 1280.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Full decor",
+    "source": "https://partybearyfun.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "EventGuru",
+  "brand_type_raw": "Balloon & Decor / Events",
+  "brand_tags": [
+   "Balloon & Decor",
+   "Planner"
+  ],
+  "event_types_raw": "Kids birthday, corporate events",
+  "event_types": [
+   "Kids Birthday",
+   "Corporate Family Day"
+  ],
+  "service_categories_raw": "Balloon arches, columns, event decor",
+  "website": "https://eventguru.com.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Arches $380-$420; columns $250",
+  "source": [
+   {
+    "label": "eventguru.com.sg",
+    "url": "https://eventguru.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 2,
+  "price_min": 250.0,
+  "price_max": 420.0,
+  "pricing_models": [
+   "Per arch",
+   "Per column"
+  ],
+  "services": [
+   {
+    "service": "Arches",
+    "category": "Balloon Decor",
+    "price_text": "$380-$420",
+    "min": 380.0,
+    "max": 420.0,
+    "pricing_model": "Per arch",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon arch",
+    "source": "https://eventguru.com.sg/"
+   },
+   {
+    "service": "Columns",
+    "category": "Balloon Decor",
+    "price_text": "$250",
+    "min": 250.0,
+    "max": 250.0,
+    "pricing_model": "Per column",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon column",
+    "source": "https://eventguru.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Carnival Empire",
+  "brand_type_raw": "Balloon & Decor / Carnival",
+  "brand_tags": [
+   "Balloon & Decor",
+   "Rental"
+  ],
+  "event_types_raw": "Kids birthday, carnival events",
+  "event_types": [
+   "Kids Birthday",
+   "Themed Party"
+  ],
+  "service_categories_raw": "Carnival rentals, balloon decor",
+  "website": "https://carnivalempire.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": "Woodlands, Singapore",
+  "differentiators": "Carnival & decor; quote-only",
+  "source": [
+   {
+    "label": "carnivalempire.sg",
+    "url": "https://carnivalempire.sg/"
+   }
+  ],
+  "confidence": "Lead",
+  "has_pricing": false,
+  "service_count": 0,
+  "price_min": null,
+  "price_max": null,
+  "pricing_models": [],
+  "services": []
+ },
+ {
+  "provider": "Twist Concept",
+  "brand_type_raw": "Balloon & Decor",
+  "brand_tags": [
+   "Balloon & Decor"
+  ],
+  "event_types_raw": "Kids birthday, event decor",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Balloon styling",
+  "website": "https://twistconcept.com",
+  "phone": "9837 6795",
+  "whatsapp": "9837 6795",
+  "whatsapp_link": "https://wa.me/6598376795",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "From $200; premium setups $800-$1500",
+  "source": [
+   {
+    "label": "twistconcept.com",
+    "url": "https://twistconcept.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 2,
+  "price_min": 200.0,
+  "price_max": 1500.0,
+  "pricing_models": [
+   "Per setup"
+  ],
+  "services": [
+   {
+    "service": "Standard setups",
+    "category": "Balloon Decor",
+    "price_text": "from $200",
+    "min": 200.0,
+    "max": 200.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Balloon styling",
+    "source": "https://twistconcept.com/"
+   },
+   {
+    "service": "Premium setups",
+    "category": "Balloon Decor",
+    "price_text": "$800-$1500",
+    "min": 800.0,
+    "max": 1500.0,
+    "pricing_model": "Per setup",
+    "duration": null,
+    "capacity": null,
+    "included": "Premium styling",
+    "source": "https://twistconcept.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Amazonia",
+  "brand_type_raw": "Venue / Indoor Playground",
+  "brand_tags": [
+   "Venue"
+  ],
+  "event_types_raw": "Kids birthday party venue",
+  "event_types": [
+   "Kids Birthday",
+   "Venue Party",
+   "Workshop"
+  ],
+  "service_categories_raw": "Party room packages",
+  "website": "https://amazonia.com.sg",
+  "phone": "6335 4522",
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": "Great World, Singapore",
+  "differentiators": "Indoor playground party packages from $699.59",
+  "source": [
+   {
+    "label": "amazonia.com.sg",
+    "url": "https://www.amazonia.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 699.59,
+  "price_max": 699.59,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Party package",
+    "category": "Venue",
+    "price_text": "from $699.59",
+    "min": 699.59,
+    "max": 699.59,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Playground party room",
+    "source": "https://www.amazonia.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Pororo Park",
+  "brand_type_raw": "Venue / Theme Park",
+  "brand_tags": [
+   "Venue"
+  ],
+  "event_types_raw": "Kids birthday party venue",
+  "event_types": [
+   "Kids Birthday",
+   "Venue Party",
+   "Workshop"
+  ],
+  "service_categories_raw": "Party room packages",
+  "website": "https://pororopark.com.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": "Marina Square, Singapore",
+  "differentiators": "Themed party packages $688/$1088",
+  "source": [
+   {
+    "label": "pororopark.com.sg",
+    "url": "https://pororopark.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 2,
+  "price_min": 688.0,
+  "price_max": 1088.0,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Party package (Standard)",
+    "category": "Venue",
+    "price_text": "$688",
+    "min": 688.0,
+    "max": 688.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Themed party room",
+    "source": "https://pororopark.com.sg/"
+   },
+   {
+    "service": "Party package (Premium)",
+    "category": "Venue",
+    "price_text": "$1088",
+    "min": 1088.0,
+    "max": 1088.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Themed party room",
+    "source": "https://pororopark.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Shangri-La (Buds)",
+  "brand_type_raw": "Venue / Hotel",
+  "brand_tags": [
+   "Venue"
+  ],
+  "event_types_raw": "Kids birthday party venue",
+  "event_types": [
+   "Kids Birthday",
+   "Venue Party",
+   "Workshop"
+  ],
+  "service_categories_raw": "Party & event packages",
+  "website": "https://shangri-la.com",
+  "phone": "6213 4833",
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": "Orange Grove Rd, Singapore",
+  "differentiators": "Buds programme parties $544-$10000",
+  "source": [
+   {
+    "label": "shangri-la.com",
+    "url": "https://www.shangri-la.com/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 544.0,
+  "price_max": 10000.0,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Party packages",
+    "category": "Venue",
+    "price_text": "$544-$10000",
+    "min": 544.0,
+    "max": 10000.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Hotel party programme",
+    "source": "https://www.shangri-la.com/"
+   }
+  ]
+ },
+ {
+  "provider": "T-Play @ HomeTeamNS",
+  "brand_type_raw": "Venue / Indoor Playground",
+  "brand_tags": [
+   "Venue"
+  ],
+  "event_types_raw": "Kids birthday party venue",
+  "event_types": [
+   "Kids Birthday",
+   "Venue Party",
+   "Workshop"
+  ],
+  "service_categories_raw": "Party room packages",
+  "website": "https://hometeamns.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": "Khatib, Singapore",
+  "differentiators": "Party packages $643-$2545",
+  "source": [
+   {
+    "label": "hometeamns.sg",
+    "url": "https://www.hometeamns.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 643.0,
+  "price_max": 2545.0,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Party packages",
+    "category": "Venue",
+    "price_text": "$643-$2545",
+    "min": 643.0,
+    "max": 2545.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Playground party room",
+    "source": "https://www.hometeamns.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "ProActiv Sports",
+  "brand_type_raw": "Venue / Sports",
+  "brand_tags": [
+   "Venue"
+  ],
+  "event_types_raw": "Kids birthday, sports party",
+  "event_types": [
+   "Kids Birthday",
+   "Workshop"
+  ],
+  "service_categories_raw": "Sports party packages",
+  "website": null,
+  "phone": "9807 6827",
+  "whatsapp": "9807 6827",
+  "whatsapp_link": "https://wa.me/6598076827",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Sports parties $649-$849",
+  "source": [
+   {
+    "label": "google.com",
+    "url": "https://www.google.com/search?q=ProActiv+Sports+Singapore"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 649.0,
+  "price_max": 849.0,
+  "pricing_models": [
+   "Per package"
+  ],
+  "services": [
+   {
+    "service": "Sports party",
+    "category": "Venue",
+    "price_text": "$649-$849",
+    "min": 649.0,
+    "max": 849.0,
+    "pricing_model": "Per package",
+    "duration": null,
+    "capacity": null,
+    "included": "Sports party",
+    "source": "https://www.google.com/search?q=ProActiv+Sports+Singapore"
+   }
+  ]
+ },
+ {
+  "provider": "Miss Muffet Cakery",
+  "brand_type_raw": "Cake",
+  "brand_tags": [
+   "Cake"
+  ],
+  "event_types_raw": "Kids birthday cakes",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Custom cakes",
+  "website": "https://missmuffet.com.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Custom cakes $115-$540",
+  "source": [
+   {
+    "label": "missmuffet.com.sg",
+    "url": "https://www.missmuffet.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 115.0,
+  "price_max": 540.0,
+  "pricing_models": [
+   "Per cake"
+  ],
+  "services": [
+   {
+    "service": "Custom cakes",
+    "category": "Cake",
+    "price_text": "$115-$540",
+    "min": 115.0,
+    "max": 540.0,
+    "pricing_model": "Per cake",
+    "duration": null,
+    "capacity": null,
+    "included": "Custom cake",
+    "source": "https://www.missmuffet.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Bob the Baker Boy",
+  "brand_type_raw": "Cake",
+  "brand_tags": [
+   "Cake"
+  ],
+  "event_types_raw": "Kids birthday cakes",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Custom & themed cakes",
+  "website": "https://bobthebakerboy.com",
+  "phone": "8862 3327",
+  "whatsapp": "8862 3327",
+  "whatsapp_link": "https://wa.me/6588623327",
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Themed cakes $158.90-$498.90",
+  "source": [
+   {
+    "label": "bobthebakerboy.com",
+    "url": "https://bobthebakerboy.com/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 158.9,
+  "price_max": 498.9,
+  "pricing_models": [
+   "Per cake"
+  ],
+  "services": [
+   {
+    "service": "Themed cakes",
+    "category": "Cake",
+    "price_text": "$158.90-$498.90",
+    "min": 158.9,
+    "max": 498.9,
+    "pricing_model": "Per cake",
+    "duration": null,
+    "capacity": null,
+    "included": "Themed cake",
+    "source": "https://bobthebakerboy.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Edith Patisserie",
+  "brand_type_raw": "Cake",
+  "brand_tags": [
+   "Cake"
+  ],
+  "event_types_raw": "Kids birthday cakes",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Custom cakes",
+  "website": "https://edithpatisserie.com",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Custom cakes $148-$184",
+  "source": [
+   {
+    "label": "edithpatisserie.com",
+    "url": "https://www.edithpatisserie.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 148.0,
+  "price_max": 184.0,
+  "pricing_models": [
+   "Per cake"
+  ],
+  "services": [
+   {
+    "service": "Custom cakes",
+    "category": "Cake",
+    "price_text": "$148-$184",
+    "min": 148.0,
+    "max": 184.0,
+    "pricing_model": "Per cake",
+    "duration": null,
+    "capacity": null,
+    "included": "Custom cake",
+    "source": "https://www.edithpatisserie.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Cake Inspiration",
+  "brand_type_raw": "Cake",
+  "brand_tags": [
+   "Cake"
+  ],
+  "event_types_raw": "Kids birthday cakes",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Custom & themed cakes",
+  "website": "https://cake-inspiration.com",
+  "phone": "8101 2082",
+  "whatsapp": "8101 2082",
+  "whatsapp_link": "https://wa.me/6581012082",
+  "email": "sales@cake-inspiration.com",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Wide range $48-$450",
+  "source": [
+   {
+    "label": "cake-inspiration.com",
+    "url": "https://www.cake-inspiration.com/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 48.0,
+  "price_max": 450.0,
+  "pricing_models": [
+   "Per cake"
+  ],
+  "services": [
+   {
+    "service": "Custom cakes",
+    "category": "Cake",
+    "price_text": "$48-$450",
+    "min": 48.0,
+    "max": 450.0,
+    "pricing_model": "Per cake",
+    "duration": null,
+    "capacity": null,
+    "included": "Custom cake",
+    "source": "https://www.cake-inspiration.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Katong Catering",
+  "brand_type_raw": "Catering",
+  "brand_tags": [
+   "Catering"
+  ],
+  "event_types_raw": "Kids birthday, events",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Party food sets, buffets",
+  "website": "https://katong-catering.com",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Party sets $148-$188",
+  "source": [
+   {
+    "label": "katong-catering.com",
+    "url": "https://www.katong-catering.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 148.0,
+  "price_max": 188.0,
+  "pricing_models": [
+   "Per set"
+  ],
+  "services": [
+   {
+    "service": "Party sets",
+    "category": "Catering",
+    "price_text": "$148-$188/set",
+    "min": 148.0,
+    "max": 188.0,
+    "pricing_model": "Per set",
+    "duration": null,
+    "capacity": null,
+    "included": "Party food set",
+    "source": "https://www.katong-catering.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Charlie's Catering",
+  "brand_type_raw": "Catering",
+  "brand_tags": [
+   "Catering"
+  ],
+  "event_types_raw": "Kids birthday, events",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Buffet & mini-buffet",
+  "website": "https://charliescatering.com.sg",
+  "phone": "9028 7343",
+  "whatsapp": "9028 7343",
+  "whatsapp_link": "https://wa.me/6590287343",
+  "email": "hello@charliescatering.com.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Per-pax $16-$40",
+  "source": [
+   {
+    "label": "charliescatering.com.sg",
+    "url": "https://charliescatering.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 16.0,
+  "price_max": 40.0,
+  "pricing_models": [
+   "Per pax"
+  ],
+  "services": [
+   {
+    "service": "Buffet",
+    "category": "Catering",
+    "price_text": "$16-$40/pax",
+    "min": 16.0,
+    "max": 40.0,
+    "pricing_model": "Per pax",
+    "duration": null,
+    "capacity": null,
+    "included": "Buffet catering",
+    "source": "https://charliescatering.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Penang Culture",
+  "brand_type_raw": "Catering",
+  "brand_tags": [
+   "Catering"
+  ],
+  "event_types_raw": "Kids birthday, events",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Buffet catering",
+  "website": "https://penangculture.com.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Per-pax $9.50-$29",
+  "source": [
+   {
+    "label": "penangculture.com.sg",
+    "url": "https://www.penangculture.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 9.5,
+  "price_max": 29.0,
+  "pricing_models": [
+   "Per pax"
+  ],
+  "services": [
+   {
+    "service": "Buffet",
+    "category": "Catering",
+    "price_text": "$9.50-$29/pax",
+    "min": 9.5,
+    "max": 29.0,
+    "pricing_model": "Per pax",
+    "duration": null,
+    "capacity": null,
+    "included": "Buffet catering",
+    "source": "https://www.penangculture.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Gourmetz",
+  "brand_type_raw": "Catering",
+  "brand_tags": [
+   "Catering"
+  ],
+  "event_types_raw": "Kids birthday, events",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Buffet catering",
+  "website": "https://gourmetz.com.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Per-pax from $21",
+  "source": [
+   {
+    "label": "gourmetz.com.sg",
+    "url": "https://www.gourmetz.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 21.0,
+  "price_max": 21.0,
+  "pricing_models": [
+   "Per pax"
+  ],
+  "services": [
+   {
+    "service": "Buffet",
+    "category": "Catering",
+    "price_text": "from $21/pax",
+    "min": 21.0,
+    "max": 21.0,
+    "pricing_model": "Per pax",
+    "duration": null,
+    "capacity": null,
+    "included": "Buffet catering",
+    "source": "https://www.gourmetz.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Mount Studio",
+  "brand_type_raw": "Photography",
+  "brand_tags": [
+   "Photography"
+  ],
+  "event_types_raw": "Kids birthday, family",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Event & party photography",
+  "website": "https://mountstudio.com.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Party photography $280-$360",
+  "source": [
+   {
+    "label": "mountstudio.com.sg",
+    "url": "https://www.mountstudio.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 280.0,
+  "price_max": 360.0,
+  "pricing_models": [
+   "Per session"
+  ],
+  "services": [
+   {
+    "service": "Party photography",
+    "category": "Photography",
+    "price_text": "$280-$360",
+    "min": 280.0,
+    "max": 360.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Event photography",
+    "source": "https://www.mountstudio.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "ABC Photography",
+  "brand_type_raw": "Photography",
+  "brand_tags": [
+   "Photography"
+  ],
+  "event_types_raw": "Kids birthday, family",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Event & party photography",
+  "website": null,
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Party photography $350",
+  "source": [
+   {
+    "label": "google.com",
+    "url": "https://www.google.com/search?q=ABC+Photography+Singapore"
+   }
+  ],
+  "confidence": "Lead",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 350.0,
+  "price_max": 350.0,
+  "pricing_models": [
+   "Per session"
+  ],
+  "services": [
+   {
+    "service": "Party photography",
+    "category": "Photography",
+    "price_text": "$350",
+    "min": 350.0,
+    "max": 350.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Event photography",
+    "source": "https://www.google.com/search?q=ABC+Photography+Singapore"
+   }
+  ]
+ },
+ {
+  "provider": "The Onlookers",
+  "brand_type_raw": "Photography",
+  "brand_tags": [
+   "Photography"
+  ],
+  "event_types_raw": "Kids birthday, family, events",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Event & party photography",
+  "website": "https://theonlookers.com",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Hourly $250-$300",
+  "source": [
+   {
+    "label": "theonlookers.com",
+    "url": "https://theonlookers.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 250.0,
+  "price_max": 300.0,
+  "pricing_models": [
+   "Per hour"
+  ],
+  "services": [
+   {
+    "service": "Party photography",
+    "category": "Photography",
+    "price_text": "$250-$300/hr",
+    "min": 250.0,
+    "max": 300.0,
+    "pricing_model": "Per hour",
+    "duration": "1 hr",
+    "capacity": null,
+    "included": "Event photography",
+    "source": "https://theonlookers.com/"
+   }
+  ]
+ },
+ {
+  "provider": "Rainstar's",
+  "brand_type_raw": "Photography",
+  "brand_tags": [
+   "Photography"
+  ],
+  "event_types_raw": "Kids birthday, family, events",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Event & party photography",
+  "website": "https://rs.sg",
+  "phone": "9191 6255",
+  "whatsapp": "9191 6255",
+  "whatsapp_link": "https://wa.me/6591916255",
+  "email": "info@rs.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Party photography from $250",
+  "source": [
+   {
+    "label": "rs.sg",
+    "url": "https://rs.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 250.0,
+  "price_max": 250.0,
+  "pricing_models": [
+   "Per session"
+  ],
+  "services": [
+   {
+    "service": "Party photography",
+    "category": "Photography",
+    "price_text": "from $250",
+    "min": 250.0,
+    "max": 250.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Event photography",
+    "source": "https://rs.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Our Momento",
+  "brand_type_raw": "Photography",
+  "brand_tags": [
+   "Photography"
+  ],
+  "event_types_raw": "Kids birthday, family, events",
+  "event_types": [
+   "Kids Birthday"
+  ],
+  "service_categories_raw": "Event & party photography",
+  "website": "https://ourmomento.com",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Party photography $250-$360",
+  "source": [
+   {
+    "label": "ourmomento.com",
+    "url": "https://ourmomento.com/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 250.0,
+  "price_max": 360.0,
+  "pricing_models": [
+   "Per session"
+  ],
+  "services": [
+   {
+    "service": "Party photography",
+    "category": "Photography",
+    "price_text": "$250-$360",
+    "min": 250.0,
+    "max": 360.0,
+    "pricing_model": "Per session",
+    "duration": null,
+    "capacity": null,
+    "included": "Event photography",
+    "source": "https://ourmomento.com/"
+   }
+  ]
+ },
+ {
+  "provider": "FunCo",
+  "brand_type_raw": "Rental",
+  "brand_tags": [
+   "Rental"
+  ],
+  "event_types_raw": "Kids birthday, carnival, events",
+  "event_types": [
+   "Kids Birthday",
+   "Themed Party"
+  ],
+  "service_categories_raw": "Bouncy castle & carnival rentals",
+  "website": "https://funco.com.sg",
+  "phone": "8133 1966",
+  "whatsapp": "8133 1966",
+  "whatsapp_link": "https://wa.me/6581331966",
+  "email": "sales@funco.com.sg",
+  "instagram": null,
+  "address": null,
+  "differentiators": "Rentals $90-$1000",
+  "source": [
+   {
+    "label": "funco.com.sg",
+    "url": "https://funco.com.sg/"
+   }
+  ],
+  "confidence": "High",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 90.0,
+  "price_max": 1000.0,
+  "pricing_models": [
+   "Per item"
+  ],
+  "services": [
+   {
+    "service": "Bouncy castle & carnival",
+    "category": "Rental",
+    "price_text": "$90-$1000",
+    "min": 90.0,
+    "max": 1000.0,
+    "pricing_model": "Per item",
+    "duration": null,
+    "capacity": null,
+    "included": "Inflatable / carnival rental",
+    "source": "https://funco.com.sg/"
+   }
+  ]
+ },
+ {
+  "provider": "Carnival People",
+  "brand_type_raw": "Rental / Carnival",
+  "brand_tags": [
+   "Rental"
+  ],
+  "event_types_raw": "Kids birthday, carnival, events",
+  "event_types": [
+   "Kids Birthday",
+   "Themed Party"
+  ],
+  "service_categories_raw": "Carnival game & equipment rentals",
+  "website": "https://carnivalpeople.com.sg",
+  "phone": null,
+  "whatsapp": null,
+  "whatsapp_link": null,
+  "email": null,
+  "instagram": null,
+  "address": null,
+  "differentiators": "Carnival rentals $120-$3800",
+  "source": [
+   {
+    "label": "carnivalpeople.com.sg",
+    "url": "https://www.carnivalpeople.com.sg/"
+   }
+  ],
+  "confidence": "Medium",
+  "has_pricing": true,
+  "service_count": 1,
+  "price_min": 120.0,
+  "price_max": 3800.0,
+  "pricing_models": [
+   "Per item"
+  ],
+  "services": [
+   {
+    "service": "Carnival rentals",
+    "category": "Rental",
+    "price_text": "$120-$3800",
+    "min": 120.0,
+    "max": 3800.0,
+    "pricing_model": "Per item",
+    "duration": null,
+    "capacity": null,
+    "included": "Carnival equipment",
+    "source": "https://www.carnivalpeople.com.sg/"
+   }
+  ]
+ }
+]
