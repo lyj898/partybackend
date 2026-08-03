@@ -585,28 +585,7 @@
    }
   ]
  },
- {
-  "provider": "Petites Soirees / Petit Soirees",
-  "category_raw": "planner",
-  "brand_tags": [
-   "Planner"
-  ],
-  "event_types": [
-   "Workshop"
-  ],
-  "description": "Party planner (indoor glamping-style setups)",
-  "website": "https://www.petitessoirees.sg",
-  "phone": null,
-  "whatsapp_link": null,
-  "email": null,
-  "instagram": null,
-  "source": [
-   {
-    "label": "Little Steps planners",
-    "url": "https://www.littlestepsasia.com/singapore/party/planning-and-rental-services/best-party-planners/"
-   }
-  ]
- },
+
  {
   "provider": "Glamping City",
   "category_raw": "planner / venue",
@@ -683,29 +662,7 @@
    }
   ]
  },
- {
-  "provider": "Rivera Events",
-  "category_raw": "catering / planner",
-  "brand_tags": [
-   "Catering",
-   "Planner"
-  ],
-  "event_types": [
-   "Corporate Family Day"
-  ],
-  "description": "Event and catering company",
-  "website": "https://www.riveraevents.com",
-  "phone": null,
-  "whatsapp_link": null,
-  "email": null,
-  "instagram": null,
-  "source": [
-   {
-    "label": "Little Steps planners",
-    "url": "https://www.littlestepsasia.com/singapore/party/planning-and-rental-services/best-party-planners/"
-   }
-  ]
- },
+
  {
   "provider": "FattyDaddyFattyMummy",
   "category_raw": "catering",
