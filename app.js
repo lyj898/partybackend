@@ -1,4 +1,4 @@
-/* ===== Fête Supplier Console ===== */
+/* ===== OurKampung Backend · Supplier Console ===== */
 const DB = window.DB;
 const $ = (s, r=document) => r.querySelector(s);
 const $$ = (s, r=document) => [...r.querySelectorAll(s)];
