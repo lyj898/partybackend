@@ -46,9 +46,9 @@
   ],
   "description": "Kids' party planner since 2010 with award-winning magic shows, bouncy castles and party rentals",
   "website": "https://www.jellybeanparty.sg",
-  "phone": null,
+  "phone": "+65 9230 5911",
   "whatsapp_link": null,
-  "email": null,
+  "email": "support@jellybeanparty.sg",
   "instagram": null,
   "source": [
    {
@@ -880,7 +880,7 @@
   "phone": null,
   "whatsapp_link": null,
   "email": null,
-  "instagram": null,
+  "instagram": "www.instagram.com/edmundkhong",
   "source": [
    {
     "label": "Sassy Mama planners",
@@ -1060,7 +1060,7 @@
   "event_types": [],
   "description": "Comedy magicians and balloon twisters, stress-free packages",
   "website": "https://birthdaymagicshow.sg/",
-  "phone": null,
+  "phone": "+65 8334 8164",
   "whatsapp_link": null,
   "email": null,
   "instagram": null,
@@ -2421,10 +2421,10 @@
    "Workshop"
   ],
   "description": "Science-themed birthday party packages",
-  "website": "https://www.singapore.madscience.org",
-  "phone": null,
+  "website": "https://singapore.madscience.org",
+  "phone": "+65 8877 4048",
   "whatsapp_link": null,
-  "email": null,
+  "email": "madsciencesg@gmail.com",
   "instagram": null,
   "source": [
    {
@@ -4266,9 +4266,9 @@
   ],
   "description": "Indoor water playground birthday venue, three locations",
   "website": "https://www.safra.sg",
-  "phone": null,
+  "phone": "+65 6686 4321",
   "whatsapp_link": null,
-  "email": null,
+  "email": "kidzamaze@safra.sg",
   "instagram": null,
   "source": [
    {
@@ -4289,7 +4289,7 @@
   ],
   "description": "Affordable birthday parties with food, host, decor, games",
   "website": "https://www.mcdonalds.com.sg",
-  "phone": null,
+  "phone": "+65 6779 1413",
   "whatsapp_link": null,
   "email": null,
   "instagram": null,
@@ -4336,7 +4336,7 @@
   "website": "https://www.mandai.com",
   "phone": null,
   "whatsapp_link": null,
-  "email": null,
+  "email": "xp.res@mandai.com",
   "instagram": null,
   "source": [
    {
@@ -5555,10 +5555,10 @@
 {"provider": "BearloonSG", "category_raw": "balloon decor", "brand_tags": ["Balloon & Decor"], "event_types": ["Kids Birthday"], "description": "Balloon decorations for birthdays, baby showers, corporate events and milestone celebrations, with island-wide delivery", "website": "https://bearloonsg.com", "phone": "+65 8503 8355", "whatsapp_link": null, "email": null, "instagram": "www.instagram.com/bearloonsg", "source": [{"label": "bearloonsg.com", "url": "https://bearloonsg.com/balloon-decorations/"}]},
 {"provider": "Balloons & Bliss", "category_raw": "balloon decor", "brand_tags": ["Balloon & Decor"], "event_types": ["Kids Birthday"], "description": "Custom themed balloon decorations, backdrops and party activities for birthdays, baby showers and corporate events", "website": "https://www.balloonsandblisssg.com", "phone": "+65 8587 6835", "whatsapp_link": "https://wa.me/6585876835", "email": "celebrate@balloonsandblisssg.com", "instagram": null, "source": [{"label": "balloonsandblisssg.com", "url": "https://www.balloonsandblisssg.com/"}]},
 {"provider": "Party Shop", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Online party store for tableware, balloons, floats and personalised party supplies delivered across Singapore", "website": "https://partyshop.sg", "phone": null, "whatsapp_link": "https://wa.me/6596228885", "email": "hello@partyshop.sg", "instagram": "www.instagram.com/partyshop.sg", "source": [{"label": "partyshop.sg", "url": "https://partyshop.sg/"}, {"label": "Honeycombers party supplies", "url": "https://thehoneycombers.com/singapore/party-supplies-decorations-singapore/"}]},
-{"provider": "Party Force", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Online party supplies store stocking balloons, decorations and accessories with same-day courier delivery", "website": "https://partyforce.sg", "phone": null, "whatsapp_link": null, "email": null, "instagram": null, "source": [{"label": "partyforce.sg", "url": "https://partyforce.sg/"}, {"label": "Honeycombers party supplies", "url": "https://thehoneycombers.com/singapore/party-supplies-decorations-singapore/"}]},
+{"provider": "Party Force", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Online party supplies store stocking balloons, decorations and accessories with same-day courier delivery", "website": "https://partyforce.sg", "phone": "+65 9035 9478", "whatsapp_link": null, "email": "hello@partyforce.sg", "instagram": null, "source": [{"label": "partyforce.sg", "url": "https://partyforce.sg/"}, {"label": "Honeycombers party supplies", "url": "https://thehoneycombers.com/singapore/party-supplies-decorations-singapore/"}]},
 {"provider": "SKP", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Birthday partyware, toys and party supplies, plus art-and-craft party workshops", "website": "https://www.skp.com.sg", "phone": "+65 6545 2828", "whatsapp_link": null, "email": "sales@skp.com.sg", "instagram": "www.instagram.com/skpsingapore", "source": [{"label": "skp.com.sg", "url": "https://www.skp.com.sg/"}, {"label": "Honeycombers party supplies", "url": "https://thehoneycombers.com/singapore/party-supplies-decorations-singapore/"}]},
 {"provider": "MR Party", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "One-stop party shop for birthday decorations, banners, party supplies and helium balloons", "website": "https://www.mrparty.com.sg", "phone": null, "whatsapp_link": "https://wa.me/6596993467", "email": "sales@mrparty.com.sg", "instagram": null, "source": [{"label": "mrparty.com.sg", "url": "https://www.mrparty.com.sg/"}, {"label": "Honeycombers party supplies", "url": "https://thehoneycombers.com/singapore/party-supplies-decorations-singapore/"}]},
-{"provider": "MTRADE", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Online novelty and party store with 160+ birthday party themes, decorations and party favours", "website": "https://www.mtradenoveltystore.com", "phone": null, "whatsapp_link": null, "email": null, "instagram": null, "source": [{"label": "mtradenoveltystore.com", "url": "https://www.mtradenoveltystore.com/"}, {"label": "Honeycombers party supplies", "url": "https://thehoneycombers.com/singapore/party-supplies-decorations-singapore/"}]},
+{"provider": "MTRADE", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Online novelty and party store with 160+ birthday party themes, decorations and party favours", "website": "https://www.mtradenoveltystore.com", "phone": "+65 6269 7576", "whatsapp_link": null, "email": "mtradenovelty@gmail.com", "instagram": null, "source": [{"label": "mtradenoveltystore.com", "url": "https://www.mtradenoveltystore.com/"}, {"label": "Honeycombers party supplies", "url": "https://thehoneycombers.com/singapore/party-supplies-decorations-singapore/"}]},
 {"provider": "WoW! Let's Party", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Wholesale party supplies, helium balloons and decorations for birthdays, baby showers and themed celebrations", "website": "https://www.wowletsparty.com", "phone": "+65 6025 1056", "whatsapp_link": "https://wa.me/6592311119", "email": "wowletspartysg@gmail.com", "instagram": "www.instagram.com/wowletsparty_", "source": [{"label": "wowletsparty.com", "url": "https://www.wowletsparty.com/"}]},
 {"provider": "CGS Party", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Party supplies retailer stocking balloons, decorations, tableware and accessories for celebrations", "website": "https://www.cgsparty.com", "phone": "+65 6297 0075", "whatsapp_link": "https://wa.me/6586923088", "email": "shop@cgsparty.com", "instagram": "www.instagram.com/cgsparty", "source": [{"label": "cgsparty.com", "url": "https://www.cgsparty.com/"}]},
 {"provider": "Kidz Party Store", "category_raw": "party supplies retailer", "brand_tags": ["Party Supplies"], "event_types": ["Kids Birthday"], "description": "Birthday party supplies, decor and balloon shop with customised and helium balloon packages", "website": "https://kidzpartystore.com", "phone": null, "whatsapp_link": "https://wa.me/6596673664", "email": null, "instagram": "www.instagram.com/kidzpartystore", "source": [{"label": "kidzpartystore.com", "url": "https://kidzpartystore.com/"}]},
