@@ -7,7 +7,7 @@ const esc = s => (s==null?'':String(s)).replace(/[&<>"']/g,c=>({'&':'&amp;','<':
 const SERVICE_OPTIONS = ['Entertainment','Balloon Decor','Magic Show','Party Package','Cake','Catering','Photography','Rental','Venue','Art Party'];
 
 const state = {
-  view: 'directory',
+  view: 'vendors',
   layout: 'cards',
   search: '',
   brand: '', cat: '', conf: '', pmodel: '',
@@ -27,10 +27,10 @@ function init(){
     document.documentElement.setAttribute('data-theme', cur==='dark'?'light':'dark');
   };
   // top stats
-  const c = DB.meta.counts;
+  const leadCount = DB.vendors.length;
+  const vendorCount = DB.vendors.filter(isVendor).length;
   $('#topStats').innerHTML = [
-    [c.suppliers,'Suppliers'],[c.priced_services,'Priced Services'],
-    [c.vendor_leads,'Vendor Leads'],[c.contacts,'Contacts']
+    [leadCount,'Leads'],[vendorCount,'Vendors']
   ].map(([n,l])=>`<div class="topstat"><b>${n}</b><span>${l}</span></div>`).join('');
 
   // enquiry event options
@@ -93,10 +93,10 @@ function buildEnquiry(){
     services: svcs, notes: $('#q_notes').value,
   };
   // pre-set filters helpfully
-  state.view='directory';
-  $$('#tabs .tab').forEach(x=>x.classList.toggle('active',x.dataset.view==='directory'));
+  state.view='vendors';
+  $$('#tabs .tab').forEach(x=>x.classList.toggle('active',x.dataset.view==='vendors'));
   render(); drawer('#intakePanel',false);
-  toast('Suppliers matched & ranked by relevance');
+  toast('Filtered vendors by your enquiry');
 }
 function clearEnquiry(){
   ['q_age','q_pax','q_theme','q_notes','q_budget_min','q_budget_max'].forEach(id=>$('#'+id).value='');
@@ -131,6 +131,8 @@ function passText(obj, fields){
   const hay = fields.map(f=>obj[f]||'').join(' ').toLowerCase();
   return state.search.split(/\s+/).every(t=>hay.includes(t));
 }
+// A "vendor" is a lead that is usable: has a website AND at least one contact channel.
+function isVendor(v){return !!(v.website && (v.phone||v.whatsapp_link||v.email||v.instagram))}
 function filterSuppliers(){
   let list = DB.suppliers.slice();
   list = list.filter(s=>{
@@ -155,17 +157,15 @@ function filterSuppliers(){
 
 /* ---------- render router ---------- */
 function render(){
-  const tb=$('#toolbar');
-  // pricing-model filter only relevant on directory/pricing
-  $('#f_pmodel').style.display = (state.view==='directory'||state.view==='pricing')?'':'none';
-  $('#f_cat').style.display = (state.view==='directory'||state.view==='pricing')?'':'none';
-  $('#f_conf').style.display = (state.view==='directory')?'':'none';
-  $('#viewToggle').style.display = (state.view==='directory')?'':'none';
-  $$('.togglepill').forEach(p=>p.style.display=(state.view==='directory'||state.view==='contacts'||state.view==='vendors')?'':'none');
-  if(state.view==='directory')renderDirectory();
-  else if(state.view==='pricing')renderPricing();
-  else if(state.view==='contacts')renderContacts();
-  else if(state.view==='vendors')renderVendors();
+  // Only vendor/lead views remain; hide supplier/pricing-specific controls.
+  $('#f_pmodel').style.display = 'none';
+  $('#f_cat').style.display = 'none';
+  $('#f_conf').style.display = 'none';
+  $('#viewToggle').style.display = 'none';
+  $('#t_priced').style.display = 'none'; // no pricing on vendor records
+  $('#t_wa').style.display = '';
+  $('#t_email').style.display = '';
+  renderVendors();
 }
 
 /* ---------- directory ---------- */
@@ -290,13 +290,16 @@ function renderContacts(){
 
 /* ---------- vendor leads view ---------- */
 function renderVendors(){
+  const qualified = state.view!=='leads'; // 'vendors' tab shows only usable ones
   let list=DB.vendors.filter(v=>{
+    if(qualified && !isVendor(v))return false;
     if(state.brand && !v.brand_tags.includes(state.brand))return false;
     if(state.wa && !v.whatsapp_link)return false;
     if(state.email && !v.email)return false;
     return passText({a:v.provider,b:v.description,c:v.category_raw},['a','b','c']);
   });
-  $('#resultCount').textContent=`${list.length} vendor lead${list.length!==1?'s':''} · not price-verified`;
+  const noun = qualified?'vendor':'lead';
+  $('#resultCount').textContent=`${list.length} ${noun}${list.length!==1?'s':''}`+(qualified?' · website + contact':' · full prospect pool');
   $('#results').innerHTML=`<div class="tablewrap"><table><thead><tr>
     <th>Company</th><th>Category</th><th>Description</th><th>Contact</th><th>Source</th>
   </tr></thead><tbody>${list.map(v=>`<tr>
