@@ -1,78 +1,29 @@
 {
- "compiled": "Compiled 20 July 2026",
- "counts": {
-  "suppliers": 47,
-  "priced_services": 107,
-  "priced_providers": 49,
-  "contacts": 47,
-  "vendor_leads": 257
- },
- "brand_tags": [
-  "Balloon & Decor",
-  "Cake",
-  "Catering",
-  "Entertainer",
-  "Party Supplies",
-  "Photography",
-  "Planner",
-  "Rental",
-  "Venue"
- ],
- "event_types": [
-  "Adult Birthday",
-  "Baby Shower",
-  "Corporate Family Day",
-  "Kids Birthday",
-  "Pool Party",
-  "Themed Party",
-  "Venue Party",
-  "Workshop"
- ],
- "service_categories": [
-  "A la carte",
-  "Add-on",
-  "Art Party",
-  "Baby Shower",
-  "Balloon Decor",
-  "Cake",
-  "Catering",
-  "Entertainment",
-  "Experience",
-  "Magic Show",
-  "Party Package",
-  "Party Supplies",
-  "Photography",
-  "Rental",
-  "Science Party",
-  "Seasonal",
-  "Themed Party",
-  "Toddler Party",
-  "Venue"
- ],
- "pricing_models": [
-  "Per arch",
-  "Per balloon",
-  "Per bouquet",
-  "Per cake",
-  "Per column",
-  "Per event",
-  "Per garland",
-  "Per hour",
-  "Per item",
-  "Per kit",
-  "Per metre",
-  "Per package",
-  "Per pax",
-  "Per rental",
-  "Per session",
-  "Per set",
-  "Per setup",
-  "Per show",
-  "Per sqm"
- ],
- "confidence_levels": [
-  "High",
-  "Lead",
-  "Medium"
- ]
+    "compiled":  "Compiled Aug 2026",
+    "counts":  {
+                   "vendors":  288,
+                   "vetted":  47,
+                   "reachable":  140
+               },
+    "brand_tags":  [
+                       "Balloon & Decor",
+                       "Cake",
+                       "Catering",
+                       "Entertainer",
+                       "Party Supplies",
+                       "Photography",
+                       "Planner",
+                       "Rental",
+                       "Venue"
+                   ],
+    "event_types":  [
+                        "Kids Birthday",
+                        "Baby Shower",
+                        "Themed Party",
+                        "Adult Birthday",
+                        "Corporate Family Day",
+                        "Pool Party",
+                        "Venue Party",
+                        "Workshop"
+                    ]
 }

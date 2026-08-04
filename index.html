@@ -18,7 +18,7 @@
     <div class="brand-mark">OK</div>
     <div>
       <div class="brand-name">OurKampung</div>
-      <div class="brand-sub">Backend · Supplier Console · Internal</div>
+      <div class="brand-sub">Concierge Matcher · Internal</div>
     </div>
   </div>
   <div class="topstats" id="topStats"></div>
@@ -28,19 +28,13 @@
   <button class="iconbtn mobile-toggle" id="openShortlist" title="Shortlist">★</button>
 </header>
 
-<!-- TABS -->
-<nav class="tabs" id="tabs">
-  <button class="tab active" data-view="vendors">Vendors</button>
-  <button class="tab" data-view="leads">Leads</button>
-</nav>
-
 <div class="drawer-scrim" id="scrim"></div>
 
 <div class="layout">
   <!-- INTAKE -->
   <aside class="col col-intake" id="intakePanel">
-    <h2 class="panel-title">Enquiry Intake</h2>
-    <p class="panel-hint">Enter the enquiry to auto-match suppliers. Nothing is saved.</p>
+    <h2 class="panel-title">Brief</h2>
+    <p class="panel-hint">Enter the customer's brief from ourkampung.com to match suppliers. Nothing is saved.</p>
     <div class="field">
       <label>Event type</label>
       <select id="q_event">
@@ -85,42 +79,33 @@
   <!-- MAIN -->
   <main class="col col-main">
     <div id="readmeBox" class="readme" style="display:none">
-      <b>Data freshness & confidence.</b> Compiled 20 Jul 2026 from public sources.
-      <b>High</b> = verified from supplier site with exact prices · <b>Medium</b> = partial / from-price ·
-      <b>Lead</b> = editorial roundup, contact-only, not price-verified.
-      All indicative prices <b>must be re-confirmed with the supplier before quoting a customer.</b>
-      Internal use only — end customers never see suppliers directly.
+      <b>How this works.</b> Enter the customer's brief on the left, then <b>Match</b> to rank suppliers
+      by service category. <b>Vetted</b> = a supplier we've verified and worked with · <b>Reachable</b> =
+      has a website and at least one contact channel. Results are a <b>contact shortlist</b>, not a quote —
+      reach out to confirm availability and price. Internal use only.
     </div>
 
     <!-- DIRECTORY / dynamic views mount here -->
     <div class="toolbar" id="toolbar">
-      <div class="search"><span class="ico">⌕</span><input type="text" id="search" placeholder="Search name, service, differentiator, notes…"></div>
-      <select class="selectmini" id="f_brand"><option value="">All brand types</option></select>
-      <select class="selectmini" id="f_cat"><option value="">All service categories</option></select>
-      <select class="selectmini" id="f_conf"><option value="">All confidence</option></select>
-      <select class="selectmini" id="f_pmodel"><option value="">All pricing models</option></select>
-      <button class="togglepill" id="t_wa" data-k="wa">WhatsApp</button>
-      <button class="togglepill" id="t_email" data-k="email">Email</button>
-      <button class="togglepill" id="t_priced" data-k="priced">Has pricing</button>
+      <div class="search"><span class="ico">⌕</span><input type="text" id="search" placeholder="Search name, category, description…"></div>
+      <select class="selectmini" id="f_brand"><option value="">All categories</option></select>
+      <button class="togglepill" id="t_vetted" data-k="vetted">Vetted only</button>
+      <button class="togglepill" id="t_reach" data-k="reach">Reachable only</button>
     </div>
     <div class="results-meta">
       <span id="resultCount"></span>
-      <div class="viewtoggle" id="viewToggle">
-        <button data-layout="cards" class="on">▦ Cards</button>
-        <button data-layout="table">☰ Table</button>
-      </div>
     </div>
     <div id="results"></div>
   </main>
 
   <!-- SHORTLIST -->
   <aside class="col col-shortlist" id="shortlistPanel">
-    <h2 class="panel-title">Working Shortlist</h2>
-    <p class="panel-hint">Manual response builder — not an automated quote.</p>
+    <h2 class="panel-title">Outreach Shortlist</h2>
+    <p class="panel-hint">Suppliers to contact for this brief — not an automated quote.</p>
     <div id="shortlistItems"></div>
     <div id="shortlistTotal"></div>
     <div class="form-actions" id="shortlistActions" style="display:none">
-      <button class="btn block sm" id="copyBtn">Copy summary for reply</button>
+      <button class="btn block sm" id="copyBtn">Copy outreach sheet</button>
     </div>
     <div class="form-actions" id="shortlistActions2" style="display:none">
       <button class="btn ghost block sm" id="clearSlBtn">Clear shortlist</button>
